@@ -23,7 +23,7 @@ Open via Bash/GitBash:
 
 3.  Open index.html in Chrome or preferred browser
 
-#### To see my [live website](https://TorchAblaze.github.io/) go to https://TorchAblaze.github.io/mad-libs!
+#### To see my live website go to https://TorchAblaze.github.io/mad-libs!
 
 ## Known Bugs
 
